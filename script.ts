@@ -79,7 +79,7 @@ let values1 : learning = {
     day:"sunday"
 }
 let values2 : learning = {
-    langName:"javacript",
+    langName:"javaScript",
     editor:"vs code",
     yes:true,
     date:6,
@@ -87,3 +87,4 @@ let values2 : learning = {
 }
 
 console.log(values1,'front values1');
+console.log(values2,'front values1');
